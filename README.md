@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -30,6 +31,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

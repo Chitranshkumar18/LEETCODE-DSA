@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -64,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

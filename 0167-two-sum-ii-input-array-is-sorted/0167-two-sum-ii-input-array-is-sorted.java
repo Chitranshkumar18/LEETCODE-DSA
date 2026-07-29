@@ -3,7 +3,6 @@ class Solution {
         int n = arr.length;
         int i=0;
         int j=n-1;
-        int [] index = new int [2];
         while(i<j){
         int sum =arr[i]+arr[j];
            if(sum==target){

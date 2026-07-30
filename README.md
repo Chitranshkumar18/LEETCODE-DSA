@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0324-wiggle-sort-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0485-max-consecutive-ones) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |

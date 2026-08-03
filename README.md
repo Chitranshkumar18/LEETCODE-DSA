@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

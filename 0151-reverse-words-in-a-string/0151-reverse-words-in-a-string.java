@@ -1,17 +1,30 @@
 class Solution {
     public String reverseWords(String s) {
-        String[] words = s.trim().split("\\s+");
+        StringBuilder ans = new StringBuilder();
+        int i = s.length() - 1;
 
-        StringBuilder sb = new StringBuilder();
-
-        for (int i = words.length - 1; i >= 0; i--) {
-            sb.append(words[i]);
-
-            if (i != 0) {
-                sb.append(" ");
+        while (i >= 0) {
+            // Skip spaces
+            while (i >= 0 && s.charAt(i) == ' ') {
+                i--;
             }
+
+            if (i < 0) break;
+
+            int j = i;
+
+            // Find the beginning of the word
+            while (j >= 0 && s.charAt(j) != ' ') {
+                j--;
+            }
+
+            // Append the word
+            ans.append(s.substring(j + 1, i + 1));
+            ans.append(" ");
+
+            i = j;
         }
 
-        return sb.toString();
+        return ans.toString().trim();
     }
 }

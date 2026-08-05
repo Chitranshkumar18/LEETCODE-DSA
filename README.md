@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->

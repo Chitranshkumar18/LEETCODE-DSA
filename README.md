@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0151-reverse-words-in-a-string) |

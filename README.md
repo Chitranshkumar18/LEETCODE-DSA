@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

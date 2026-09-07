@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Math
 |  |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |

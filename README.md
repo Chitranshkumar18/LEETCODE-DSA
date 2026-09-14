@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1957-delete-characters-to-make-fancy-string) |

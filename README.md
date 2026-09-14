@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Linked List
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

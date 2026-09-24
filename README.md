@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |

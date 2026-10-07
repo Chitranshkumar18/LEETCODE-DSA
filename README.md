@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Minimax
 |  |
 | ------- |
@@ -317,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->

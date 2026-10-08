@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |

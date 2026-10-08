@@ -20,3 +20,6 @@ class Solution {
         return res;
     }
 }
+
+//TC = O(n + m)
+//SC = O(m)

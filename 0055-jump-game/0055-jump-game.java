@@ -7,9 +7,6 @@ class Solution {
                 return false;
             }
             max = Math.max(max, i + arr[i]); //0
-            if(max >= n-1){
-                return true;
-            }
         }
         return true;  
     }

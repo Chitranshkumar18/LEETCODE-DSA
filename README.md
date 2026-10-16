@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1903-largest-odd-number-in-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |

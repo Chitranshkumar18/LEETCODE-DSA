@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |

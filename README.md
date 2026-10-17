@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
 | ------- |

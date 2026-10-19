@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1903-largest-odd-number-in-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String Matching
 |  |
 | ------- |

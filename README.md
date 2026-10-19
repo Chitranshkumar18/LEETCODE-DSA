@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |

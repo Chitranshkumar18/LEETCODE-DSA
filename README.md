@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -356,10 +358,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

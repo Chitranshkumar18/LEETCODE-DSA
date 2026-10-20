@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |

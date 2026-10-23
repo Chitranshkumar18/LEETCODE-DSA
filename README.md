@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2235-add-two-integers) |
 | [3871-count-commas-in-range-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window

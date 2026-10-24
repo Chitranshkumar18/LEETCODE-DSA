@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Minimax
 |  |
@@ -312,10 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
 ## Trie
 |  |
 | ------- |

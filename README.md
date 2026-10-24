@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
+| [2236-root-equals-sum-of-children](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
+| [2236-root-equals-sum-of-children](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Trie
 |  |
 | ------- |

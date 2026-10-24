@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Trie
 |  |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0460-lfu-cache) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->

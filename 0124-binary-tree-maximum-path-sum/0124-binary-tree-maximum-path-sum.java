@@ -1,6 +1,5 @@
 class Solution {
     int max;
-
     public int maxPathSum(TreeNode root) {
         max = Integer.MIN_VALUE;
         levels(root);

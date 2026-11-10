@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3693-climbing-stairs-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [3693-climbing-stairs-ii](https://github.com/Chitranshkumar18/LEETCODE-DSA/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
